@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm ನಂದನ್‌ ರಾಥೋಡ್ / Nandan Rathod</h1>
+<h1 align="center">Hi, I'm Nandan Rathod</h1>
 <h3 align="center">A passionate full stack developer with python.</h3>
 
-- 🔭 I’m currently working on **Hand gesture detection project.**
+- 🔭 I’m currently working on **Hand gesture detection and E-Commerce Website.**
 
 - 🌱 I’m currently learning **Javascript, and react js**
 
